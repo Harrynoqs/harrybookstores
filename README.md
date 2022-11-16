@@ -6,6 +6,7 @@
 
 > Description the project.
 
+
 In this step, I configured my Redux Store and wrote actions and reducer for adding and removing books. 
 NOTE: editing an existing book and updating the progress is not part of this step. Neither is the styling of the application's components but adding and removing actions need to be implemented.
 
