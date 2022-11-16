@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
-import React from 'react'
-
+import React from 'react';
 
 function Book(props) {
   const { title, author } = props;
